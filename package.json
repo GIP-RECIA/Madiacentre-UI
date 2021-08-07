@@ -23,7 +23,7 @@
     "oidc-client": "^1.11.5",
     "vue": "^2.6.12",
     "vue-i18n": "^8.24.4",
-    "vue-loader": "^15.9.6"
+    "vue-loader": "^16.0.0"
   },
   "devDependencies": {
     "@uportal/open-id-connect": "^1.36.0",
