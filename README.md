@@ -1,5 +1,7 @@
 # mediacentre-ui
 
+> ⚠️ migration du projet vers https://github.com/GIP-RECIA/recia-webcomponents/tree/main/packages/mediacentre
+
 - [mediacentre-ui](#mediacentre-ui)
   - [Installation](#installation)
   - [Paramètres](#paramètres)
